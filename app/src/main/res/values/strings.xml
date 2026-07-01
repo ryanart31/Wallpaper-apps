@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wallpaper</string>
+    <string name="settings">Settings</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="set_as_wallpaper">Set as Wallpaper</string>
+    <string name="daily_refresh">Daily Refresh</string>
+    <string name="favorites">Favorites</string>
+    <string name="categories">Categories</string>
+    <string name="error_loading_wallpapers">Error loading wallpapers</string>
+    <string name="error_setting_wallpaper">Error setting wallpaper</string>
+    <string name="retry">Retry</string>
+    <string name="no_favorites">No favorites yet</string>
+</resources>
